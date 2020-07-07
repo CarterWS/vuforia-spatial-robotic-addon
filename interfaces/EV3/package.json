@@ -1,0 +1,11 @@
+{
+  "name": "ev3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Carter Silvey",
+  "license": "ISC",
+  "dependencies": {
+    "zerorpc": "^0.9.8"
+  }
+}
